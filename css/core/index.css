@@ -32,10 +32,9 @@ main{
   .integrantes{
       position: relative;
       display: flex;
-      left: 100px;
       top: 140px;
-      width: 1700px;
-      height: 700px;
+      width: 100%;
+      height: 800px;
       z-index: -1;
       padding: 0px;
       flex-wrap: wrap;
